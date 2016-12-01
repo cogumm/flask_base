@@ -1,2 +1,2 @@
-# flask_base
+# Flask
 Base para projetos em Flask
